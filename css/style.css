@@ -82,7 +82,7 @@
 }
 .blueblock{
 	width: 1366px;
-	max-width: 100%;
+	width: 100%;
 	
 	background-color: #363E97;
 	margin-top: 30px;
@@ -126,7 +126,7 @@
 .cyanblock{
 	width: 1366px;
 	
-	max-width: 100%;
+	width: 100%;
 	background-color: #BDCCD4;
 	margin-left: auto;
 	margin-right: auto;
@@ -157,8 +157,8 @@
 }
 .greyblock{
 	width: 1366px;
-	height: 345px;
-	max-width: 100%;
+	
+	width: 100%;
 	background-color: #E6E6E6;
 	margin-left: auto;
 	margin-right: auto;
