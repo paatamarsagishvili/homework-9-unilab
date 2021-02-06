@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1453px){
+	.list{
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width: 1333px){
+	.list,.icons{
+		display: none;
+	}
+	.burger-icon {
+		display: block;
+	}
+	 .header{
+	 	display: flex;
+	 	justify-content: space-around;
+	 }    
+
+	
+}
+@media only screen and  (max-width: 1024px){
+	.img{
+		display: none;
+	}
+	
+	.wrapblock, .photos{
+	
+		display: flex;
+		flex-direction: column;
+	}
+	.below-photos {
+		display: flex;
+		justify-content: center;
+		justify-content: space-around;
+		flex-direction: column;
+
+
+	}
+
+	.cyanblock,.blueblock{
+		display: flex;
+		justify-content: center;
+		width: 100%;
+	}
+	.title,.title2{
+		display: none;
+	}
+}
